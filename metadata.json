@@ -1,0 +1,6 @@
+{
+  "name": "Emotion-Centric AI Demo",
+  "description": "An interactive, high-fidelity demonstration showcase of the Emotion-Centric AI concept, allowing sponsors to experience real-time sentiment parsing without exposing original production IP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
